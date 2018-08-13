@@ -1,0 +1,11 @@
+{
+  "name": "tailwind-parcel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^9.1.1",
+    "postcss": "^7.0.2",
+    "tailwindcss": "^0.6.4"
+  }
+}
