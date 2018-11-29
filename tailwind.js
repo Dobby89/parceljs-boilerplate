@@ -52,8 +52,8 @@ let colors = {
   'grey-dark': '#8795a1',
   'grey': '#b8c2cc',
   'grey-light': '#dae1e7',
-  'grey-lighter': '#f1f5f8',
-  'grey-lightest': '#f8fafc',
+  'grey-lighter': '#e9ebec',
+  'grey-lightest': '#f3f3f3',
   'white': '#ffffff',
 
   'red-darkest': '#3b0d0c',
@@ -62,7 +62,7 @@ let colors = {
   'red': '#e3342f',
   'red-light': '#ef5753',
   'red-lighter': '#f9acaa',
-  'red-lightest': '#fcebea',
+  'red-lightest': '#fdf9f8',
 
   'orange-darkest': '#462a16',
   'orange-darker': '#613b1f',
@@ -747,7 +747,7 @@ module.exports = {
   */
 
   shadows: {
-    default: '0 2px 4px 0 rgba(0,0,0,0.10)',
+    default: '0 1px 3px 0 rgba(0,0,0,0.1)',
     'md': '0 4px 8px 0 rgba(0,0,0,0.12), 0 2px 4px 0 rgba(0,0,0,0.08)',
     'lg': '0 15px 30px 0 rgba(0,0,0,0.11), 0 5px 15px 0 rgba(0,0,0,0.08)',
     'inner': 'inset 0 2px 4px 0 rgba(0,0,0,0.06)',
